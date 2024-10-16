@@ -10,7 +10,7 @@ Projeto de um Portal de notícias.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="preview-portal-de-noticias.png" width="60%">
 </p>
 
 
